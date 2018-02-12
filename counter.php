@@ -24,3 +24,5 @@ fclose($datei);
 git commit -m "find all files"
 clone the repository
 and use git pish -u origin master
+https://github.com/masporo/visit-counter.git
+http://justintadlock.com/web-design/counter
