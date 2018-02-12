@@ -1,4 +1,4 @@
-*created a file named countlog.txt
+*CREATED A FILE NAMED COUNTLOG.TXT
 steps to follow when creating countlog.txt :
 touch countlog.txt
 git add countlog.txt
