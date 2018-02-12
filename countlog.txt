@@ -1,0 +1,9 @@
+*created a file named countlog.txt
+steps to follow when creating countlog.txt :
+touch countlog.txt
+git add countlog.txt
+gedit countlog.txt (on the scripts I added 0)
+git commit -m "find all files"
+clone the respositor,git remote add origin git@github.com:masporo/visit-counter.git
+git push -u origin master
+http://justintadlock.com/web-design/counter( the source)
