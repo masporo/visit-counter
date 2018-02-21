@@ -15,7 +15,7 @@ COPY scripts/countlog.txt /var/www/html/
 COPY scripts/counter.php /var/www/html/
 
 
-For more information visit this link:For more information visit this link https://github.com/masporo/visit-counter.g$
+For more information visit this link: https://github.com/masporo/visit-counter.g$
  
 
 
